@@ -11,7 +11,7 @@ God Spoofer is a network security tool designed for educational purposes to demo
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/god-spoofer.git
+   git clone https://github.com/eren0isik/godspoofer.git
    cd god-spoofer
    pip install -r requirements.txt
    python god_spoofer.py
